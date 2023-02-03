@@ -22,5 +22,10 @@ At last , start the environment.
 ```
 npm start
 ```
+Login Credentials
+```
+email: a@a.com
+password : Qwerty1@
+```
 
 Now the website is ready to use!!!
