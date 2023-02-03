@@ -1,0 +1,16 @@
+.viewcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+.viewcardbox{
+    width:40%;
+    justify-content: center;
+    align-items: center;
+}
+.cardheading{
+    padding-bottom: 5%;
+    text-align: center;
+}
